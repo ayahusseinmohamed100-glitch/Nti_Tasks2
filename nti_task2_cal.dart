@@ -8,6 +8,6 @@ int? task() {
   print("$n1 - $n2 = ${n1 - n2}");
 }
 
-int calculate() {
-  return 5 * 6;
-}
+// int calculate() {
+//   return 5 * 6;
+// }
